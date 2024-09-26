@@ -34,8 +34,3 @@
 ## 1 Desenvolvedor 👨‍💻
 
 ### Criar uma solução com base na experiência de cada um dos integrantes da equipe
-
-<<<<<<< HEAD
-=======
-### B
->>>>>>> 2110b8477dd6a1241a47dd816d20c1ffeffff808
