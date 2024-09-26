@@ -33,4 +33,6 @@
  
 ## 1 Desenvolvedor 👨‍💻
 
+## 1 Negocios 💼
+
 ### Criar uma solução com base na experiência de cada um dos integrantes da equipe
