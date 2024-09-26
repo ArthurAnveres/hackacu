@@ -5,9 +5,9 @@
 ## Ciência🧬
 ## Tecnologia👨‍💻
 
-# Desafio juntar todas as matérias para juntar e abrir oportunidades para demais áreas de conhecimento 🤯
+# Desafio juntar todas as matérias para abrir oportunidades para demais áreas de conhecimento 🤯
 
-## Mostrar exemplos de contextos reais para uso no dia a dia relacionando o ensino com coisas reais do dia a dia
+## Mostrar exemplos de contextos reais para uso no dia a dia para o ensino ser mais efetivo
 
 ## Pensar de maneira interdisciplinar
 
@@ -43,6 +43,18 @@
  
 ## 1 Desenvolvedor 👨‍💻
 
-## 1 Negocios 💼
+## 1 Finanças/Empreendedorismo/Negocios 💼
 
-### Criar uma solução com base na experiência de cada um dos integrantes da equipe
+# Criar uma solução com base na experiência de cada um dos integrantes da equipe
+
+## Exemplo: Criar um app de ensino com a metodologia Steim.
+
+### Ter treinamentos para professores
+
+### Plataforma inclusiva de fácil uso
+
+### Disponibilização de bibliotecas com materiais de estudo
+
+### Agendamento de aulas práticas, workshops e eventos com empresas
+
+### Networking com pessoas já dentro do mercado de trabalho
