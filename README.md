@@ -7,13 +7,23 @@
 
 # Desafio juntar todas as matérias para juntar e abrir oportunidades para demais áreas de conhecimento 🤯
 
-## Mostrar exemplos de contextos reais para uso no dia a dia relacionado o ensino com coisas reais do dia a dia
+## Mostrar exemplos de contextos reais para uso no dia a dia relacionando o ensino com coisas reais do dia a dia
 
 ## Pensar de maneira interdisciplinar
 
-## Mostrar o pra que de cada ensino por exemplo ensinar uma reação quimica mas dar exemplos que pode gerar energia e se ligar com física e gerar luz para uma familia.
+## Mostrar o pra que de cada ensino por exemplo
+ 
+### ensinar que uma reação química pode gerar energia e se ligar com física para gerar luz para uma familia.
 
 ## Desenvolver habilidades Pessoais.
+
+### Pensamento crítico 
+
+### resolução de problemas
+
+### análises
+
+### autonomia
 
 ## O aluno tem que ser o protagonista. 👨‍🎓
 
